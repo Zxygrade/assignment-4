@@ -1,0 +1,637 @@
+2022-12-10 00:00:12; INFO; Loopback Stream; 10948; 36704] CallLibrary Start
+2022-12-10 00:00:12; INFO; Loopback Stream; 10948; 36704] CallLibrary End
+2022-12-10 00:00:42; INFO; Loopback Stream; 10948; 5080] CallLibrary Start
+2022-12-10 00:00:42; INFO; Loopback Stream; 10948; 5080] CallLibrary End
+2022-12-10 00:01:12; INFO; Loopback Stream; 10948; 34036] CallLibrary Start
+2022-12-10 00:01:12; INFO; Loopback Stream; 10948; 34036] CallLibrary End
+2022-12-10 00:01:42; INFO; Loopback Stream; 10948; 6388] CallLibrary Start
+2022-12-10 00:01:42; INFO; Loopback Stream; 10948; 6388] CallLibrary End
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:01:58; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:02:43; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:02:43; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:02:43; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:02:43; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:02:43; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:02:43; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:02:43; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:02:43; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:02:44; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:02:44; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:02:44; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:02:44; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:02:44; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:02:44; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:02:44; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:02:44; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:02:45; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:02:45; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:27; INFO; User Session Manager; 10948; 15328] OnSessionChange Start
+2022-12-10 00:22:27; ERROR; DeviceServicePlugin; 10948; 8124] [DeviceServicePlugin] UserSession:1, OnSessionChange: Event:7
+2022-12-10 00:22:27; ERROR; AC_FDSPlugIn; 10948; 15720] UserSession:1, OnSessionChange: Event:7
+2022-12-10 00:22:27; INFO; ACStore Plugin; 10948; 15716] OnSessionChange(): Type = 7
+2022-12-10 00:22:27; INFO; User Session Manager; 10948; 15328] OnSessionChange End
+2022-12-10 00:22:27; INFO; ScenarioProfilePlugIn; 10948; 16048] UserSession:1, OnSessionChange: Event:7
+2022-12-10 00:22:27; ERROR; GameBoxPlugIn; 10948; 4500] UserSession:1, OnSessionChange: Event:7
+2022-12-10 00:22:27; ERROR; MB_Home; 10948; 15916] UserSession:1, OnSessionChange: Event:7
+2022-12-10 00:22:27; ERROR; GameLibrary Pluing; 10948; 15728] UserSession:1, OnSessionChange: Event:7
+2022-12-10 00:22:27; ERROR; Free Up Memory Plugin; 10948; 15264] UserSession:1, OnSessionChange: Event:7
+2022-12-10 00:22:27; ERROR; WebSocketClientPlugin; 10948; 3488] UserSession:1, OnSessionChange: Event:7
+2022-12-10 00:22:27; INFO; User Session Manager; 10948; 16148] OnPowerChange Start
+2022-12-10 00:22:27; INFO; User Session Manager; 10948; 16148] OnPowerChange dwEventType=4, lpEventData=0000000000000000
+2022-12-10 00:22:27; INFO; User Session Manager; 10948; 16148] OnPowerChange End
+2022-12-10 00:22:33; INFO; User Session Manager; 10948; 15328] OnPowerChange Start
+2022-12-10 00:22:33; INFO; User Session Manager; 10948; 15328] OnPowerChange dwEventType=4, lpEventData=0000000000000000
+2022-12-10 00:22:33; INFO; User Session Manager; 10948; 15328] OnPowerChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 00:22:34; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 16148] OnPowerChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 16148] OnPowerChange dwEventType=7, lpEventData=0000000000000000
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 16148] OnPowerChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnPowerChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnPowerChange dwEventType=7, lpEventData=0000000000000000
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnPowerChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 16148] OnPowerChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 16148] OnPowerChange dwEventType=18, lpEventData=0000000000000000
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 16148] OnPowerChange End
+2022-12-10 01:28:59; INFO; GameBoxPlugIn; 10948; 4500] CallLibrary Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnPowerChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnPowerChange dwEventType=18, lpEventData=0000000000000000
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnPowerChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:28:59; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:28:59; INFO; ScenarioProfilePlugIn; 10948; 9964] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 45, ModeKey : 45, Type : System_Function
+2022-12-10 01:28:59; INFO; ScenarioProfilePlugIn; 10948; 9964] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2022-12-10 01:28:59; INFO; AC_FDSPlugIn; 10948; 10192] CallLibrary Start
+2022-12-10 01:28:59; INFO; AC_FDSPlugIn; 10948; 25172] CallLibrary Start
+2022-12-10 01:28:59; INFO; ScenarioProfilePlugIn; 10948; 25172] ProcessRequest : DoForegroundEvent
+2022-12-10 01:28:59; INFO; ScenarioProfilePlugIn; 10948; 25172] (DoForegroundEvent) PID=33684, Path="Microsoft.LockApp_cw5n1h2txyewy!WindowsDefaultLockScreen", AppType=UWP
+2022-12-10 01:28:59; INFO; ScenarioProfilePlugIn; 10948; 25172] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:28:59; INFO; ScenarioProfilePlugIn; 10948; 25172] (MonitorHandler) No linked profile
+2022-12-10 01:28:59; INFO; ScenarioProfilePlugIn; 10948; 25172] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:28:59; INFO; ScenarioProfilePlugIn; 10948; 25172] Finish DoForegroundEvent()
+2022-12-10 01:28:59; INFO; AC_FDSPlugIn; 10948; 25172] CallLibrary End
+2022-12-10 01:28:59; INFO; AC_FDSPlugIn; 10948; 10192] CallLibrary End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnRegisteredWindowMessage Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnRegisteredWindowMessage End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:00; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:01; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:01; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:01; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:29:01; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:29:01; INFO; AEF Core; 10948; 35396] Enter GetPacket loop - ConsoleBackground.
+2022-12-10 01:29:01; INFO; Loopback Stream; 10948; 10500] CallLibrary Start
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 10500] CallLibrary Start
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 10500] CallLibrary End
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 10500] CallLibrary Start
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 10500] CallLibrary End
+2022-12-10 01:29:01; INFO; Loopback Stream; 10948; 10500] CallLibrary End
+2022-12-10 01:29:01; INFO; Loopback Stream; 10948; 15816] CallLibrary Start
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 15816] CallLibrary Start
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 15816] CallLibrary End
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 15816] CallLibrary Start
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 15816] CallLibrary End
+2022-12-10 01:29:01; INFO; Loopback Stream; 10948; 15816] CallLibrary End
+2022-12-10 01:29:01; INFO; Loopback Stream; 10948; 32668] CallLibrary Start
+2022-12-10 01:29:01; INFO; Loopback Stream; 10948; 32668] CallLibrary End
+2022-12-10 01:29:01; INFO; Loopback Stream; 10948; 21300] CallLibrary Start
+2022-12-10 01:29:01; INFO; Loopback Stream; 10948; 21300] CallLibrary End
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 4500] CallLibrary End
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 4500] DoPromotion : S_OK
+2022-12-10 01:29:01; INFO; GameBoxPlugIn; 10948; 4500] CallLibrary Start
+2022-12-10 01:29:02; INFO; Loopback Stream; 10948; 35332] CallLibrary Start
+2022-12-10 01:29:02; INFO; GameBoxPlugIn; 10948; 35332] CallLibrary Start
+2022-12-10 01:29:02; INFO; GameBoxPlugIn; 10948; 35332] CallLibrary End
+2022-12-10 01:29:02; INFO; GameBoxPlugIn; 10948; 35332] CallLibrary Start
+2022-12-10 01:29:02; INFO; GameBoxPlugIn; 10948; 35332] CallLibrary End
+2022-12-10 01:29:02; INFO; Loopback Stream; 10948; 35332] CallLibrary End
+2022-12-10 01:29:02; INFO; Loopback Stream; 10948; 35196] CallLibrary Start
+2022-12-10 01:29:02; INFO; Loopback Stream; 10948; 35196] CallLibrary End
+2022-12-10 01:29:02; INFO; Loopback Stream; 10948; 29288] CallLibrary Start
+2022-12-10 01:29:02; INFO; Loopback Stream; 10948; 29288] CallLibrary End
+2022-12-10 01:29:02; INFO; GameBoxPlugIn; 10948; 4500] CallLibrary End
+2022-12-10 01:29:02; INFO; GameBoxPlugIn; 10948; 4500] DoPromotion : S_OK
+2022-12-10 01:29:06; INFO; Loopback Stream; 10948; 34880] CallLibrary Start
+2022-12-10 01:29:06; INFO; Loopback Stream; 10948; 34880] CallLibrary End
+2022-12-10 01:29:11; INFO; User Session Manager; 10948; 15328] OnSessionChange Start
+2022-12-10 01:29:11; ERROR; DeviceServicePlugin; 10948; 8124] [DeviceServicePlugin] UserSession:1, OnSessionChange: Event:8
+2022-12-10 01:29:11; ERROR; GameBoxPlugIn; 10948; 4500] UserSession:1, OnSessionChange: Event:8
+2022-12-10 01:29:11; ERROR; AC_FDSPlugIn; 10948; 15720] UserSession:1, OnSessionChange: Event:8
+2022-12-10 01:29:11; INFO; ACStore Plugin; 10948; 15716] OnSessionChange(): Type = 8
+2022-12-10 01:29:11; ERROR; GameLibrary Pluing; 10948; 15728] UserSession:1, OnSessionChange: Event:8
+2022-12-10 01:29:11; ERROR; Free Up Memory Plugin; 10948; 15264] UserSession:1, OnSessionChange: Event:8
+2022-12-10 01:29:11; INFO; User Session Manager; 10948; 15328] OnSessionChange End
+2022-12-10 01:29:11; INFO; GameBoxPlugIn; 10948; 4500] class CAEFPluginSample::NotifySessionChange PushNotification Fail, Event: SessionChange, Role: UserSession
+2022-12-10 01:29:11; INFO; ScenarioProfilePlugIn; 10948; 16048] UserSession:1, OnSessionChange: Event:8
+2022-12-10 01:29:11; ERROR; WebSocketClientPlugin; 10948; 3488] UserSession:1, OnSessionChange: Event:8
+2022-12-10 01:29:11; ERROR; MB_Home; 10948; 15916] UserSession:1, OnSessionChange: Event:8
+2022-12-10 01:29:11; INFO; AC_FDSPlugIn; 10948; 23152] CallLibrary Start
+2022-12-10 01:29:11; INFO; AC_FDSPlugIn; 10948; 23152] CallLibrary End
+2022-12-10 01:29:11; INFO; AC_FDSPlugIn; 10948; 34332] CallLibrary Start
+2022-12-10 01:29:11; INFO; ScenarioProfilePlugIn; 10948; 34332] ProcessRequest : DoForegroundEvent
+2022-12-10 01:29:11; INFO; ScenarioProfilePlugIn; 10948; 34332] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:29:11; INFO; ScenarioProfilePlugIn; 10948; 34332] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:29:11; INFO; ScenarioProfilePlugIn; 10948; 34332] (MonitorHandler) No linked profile
+2022-12-10 01:29:11; INFO; ScenarioProfilePlugIn; 10948; 34332] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:29:11; INFO; ScenarioProfilePlugIn; 10948; 34332] Finish DoForegroundEvent()
+2022-12-10 01:29:11; INFO; AC_FDSPlugIn; 10948; 34332] CallLibrary End
+2022-12-10 01:29:18; INFO; AC_FDSPlugIn; 10948; 24324] CallLibrary Start
+2022-12-10 01:29:18; INFO; AC_FDSPlugIn; 10948; 24324] CallLibrary End
+2022-12-10 01:29:18; INFO; AC_FDSPlugIn; 10948; 32628] CallLibrary Start
+2022-12-10 01:29:18; INFO; ScenarioProfilePlugIn; 10948; 32628] ProcessRequest : DoForegroundEvent
+2022-12-10 01:29:18; INFO; ScenarioProfilePlugIn; 10948; 32628] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:29:18; INFO; ScenarioProfilePlugIn; 10948; 32628] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:29:18; INFO; ScenarioProfilePlugIn; 10948; 32628] (MonitorHandler) No linked profile
+2022-12-10 01:29:18; INFO; ScenarioProfilePlugIn; 10948; 32628] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:29:18; INFO; ScenarioProfilePlugIn; 10948; 32628] Finish DoForegroundEvent()
+2022-12-10 01:29:18; INFO; AC_FDSPlugIn; 10948; 32628] CallLibrary End
+2022-12-10 01:29:20; INFO; WebSocketClientPlugin; 10948; 3376] PushReceiveWebSocketMessage Receiving Message, Receiver: {4A47B00C-D8DA-4178-965B-F62CD40886B1}
+2022-12-10 01:29:20; INFO; WebSocketClientPlugin; 10948; 3376] PushReceiveWebSocketMessage Bypassing Message, Hash: 12093011883575769051
+2022-12-10 01:29:20; INFO; WebSocketClientPlugin; 10948; 3376] CallLibrary Start
+2022-12-10 01:29:20; INFO; WebSocketClientPlugin; 10948; 3376] CallLibrary End
+2022-12-10 01:29:20; INFO; WebSocketClientPlugin; 10948; 3376] PushReceiveWebSocketMessage Bypass Success
+2022-12-10 01:29:36; INFO; Loopback Stream; 10948; 23612] CallLibrary Start
+2022-12-10 01:29:36; INFO; Loopback Stream; 10948; 23612] CallLibrary End
+2022-12-10 01:30:02; WARNING; AEF Core; 10948; 35396] Read packet failed from ConsoleBackground.
+2022-12-10 01:30:02; INFO; AEF Core; 10948; 35396] Leave GetPacket loop - ConsoleBackground.
+2022-12-10 01:30:06; INFO; Loopback Stream; 10948; 33248] CallLibrary Start
+2022-12-10 01:30:06; INFO; Loopback Stream; 10948; 33248] CallLibrary End
+2022-12-10 01:30:08; INFO; User Session Manager; 10948; 15328] OnDeviceChange Start
+2022-12-10 01:30:08; INFO; User Session Manager; 10948; 15328] OnDeviceChange End
+2022-12-10 01:30:36; INFO; Loopback Stream; 10948; 13012] CallLibrary Start
+2022-12-10 01:30:36; INFO; Loopback Stream; 10948; 13012] CallLibrary End
+2022-12-10 01:31:06; INFO; Loopback Stream; 10948; 15140] CallLibrary Start
+2022-12-10 01:31:06; INFO; Loopback Stream; 10948; 15140] CallLibrary End
+2022-12-10 01:31:36; INFO; Loopback Stream; 10948; 16284] CallLibrary Start
+2022-12-10 01:31:36; INFO; Loopback Stream; 10948; 16284] CallLibrary End
+2022-12-10 01:32:06; INFO; Loopback Stream; 10948; 25248] CallLibrary Start
+2022-12-10 01:32:06; INFO; Loopback Stream; 10948; 25248] CallLibrary End
+2022-12-10 01:32:36; INFO; Loopback Stream; 10948; 27532] CallLibrary Start
+2022-12-10 01:32:36; INFO; Loopback Stream; 10948; 27532] CallLibrary End
+2022-12-10 01:33:06; INFO; Loopback Stream; 10948; 1056] CallLibrary Start
+2022-12-10 01:33:06; INFO; Loopback Stream; 10948; 1056] CallLibrary End
+2022-12-10 01:33:23; INFO; AC_FDSPlugIn; 10948; 17312] CallLibrary Start
+2022-12-10 01:33:23; INFO; AC_FDSPlugIn; 10948; 17312] CallLibrary End
+2022-12-10 01:33:23; INFO; AC_FDSPlugIn; 10948; 34008] CallLibrary Start
+2022-12-10 01:33:23; INFO; ScenarioProfilePlugIn; 10948; 34008] ProcessRequest : DoForegroundEvent
+2022-12-10 01:33:23; INFO; ScenarioProfilePlugIn; 10948; 34008] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:33:23; INFO; ScenarioProfilePlugIn; 10948; 34008] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:33:23; INFO; ScenarioProfilePlugIn; 10948; 34008] (MonitorHandler) No linked profile
+2022-12-10 01:33:23; INFO; ScenarioProfilePlugIn; 10948; 34008] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:33:23; INFO; ScenarioProfilePlugIn; 10948; 34008] Finish DoForegroundEvent()
+2022-12-10 01:33:23; INFO; AC_FDSPlugIn; 10948; 34008] CallLibrary End
+2022-12-10 01:33:24; INFO; AC_FDSPlugIn; 10948; 28000] CallLibrary Start
+2022-12-10 01:33:24; INFO; AC_FDSPlugIn; 10948; 28000] CallLibrary End
+2022-12-10 01:33:24; INFO; AC_FDSPlugIn; 10948; 31264] CallLibrary Start
+2022-12-10 01:33:24; INFO; ScenarioProfilePlugIn; 10948; 31264] ProcessRequest : DoForegroundEvent
+2022-12-10 01:33:24; INFO; ScenarioProfilePlugIn; 10948; 31264] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:33:24; INFO; ScenarioProfilePlugIn; 10948; 31264] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:33:24; INFO; ScenarioProfilePlugIn; 10948; 31264] (MonitorHandler) No linked profile
+2022-12-10 01:33:24; INFO; ScenarioProfilePlugIn; 10948; 31264] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:33:24; INFO; ScenarioProfilePlugIn; 10948; 31264] Finish DoForegroundEvent()
+2022-12-10 01:33:24; INFO; AC_FDSPlugIn; 10948; 31264] CallLibrary End
+2022-12-10 01:33:36; INFO; Loopback Stream; 10948; 1328] CallLibrary Start
+2022-12-10 01:33:36; INFO; Loopback Stream; 10948; 1328] CallLibrary End
+2022-12-10 01:34:06; INFO; Loopback Stream; 10948; 5252] CallLibrary Start
+2022-12-10 01:34:06; INFO; Loopback Stream; 10948; 5252] CallLibrary End
+2022-12-10 01:34:20; INFO; AC_FDSPlugIn; 10948; 33512] CallLibrary Start
+2022-12-10 01:34:20; INFO; AC_FDSPlugIn; 10948; 33512] CallLibrary End
+2022-12-10 01:34:20; INFO; AC_FDSPlugIn; 10948; 36804] CallLibrary Start
+2022-12-10 01:34:20; INFO; ScenarioProfilePlugIn; 10948; 36804] ProcessRequest : DoForegroundEvent
+2022-12-10 01:34:20; INFO; ScenarioProfilePlugIn; 10948; 36804] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:34:20; INFO; ScenarioProfilePlugIn; 10948; 36804] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:34:20; INFO; ScenarioProfilePlugIn; 10948; 36804] (MonitorHandler) No linked profile
+2022-12-10 01:34:20; INFO; ScenarioProfilePlugIn; 10948; 36804] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:34:20; INFO; ScenarioProfilePlugIn; 10948; 36804] Finish DoForegroundEvent()
+2022-12-10 01:34:20; INFO; AC_FDSPlugIn; 10948; 36804] CallLibrary End
+2022-12-10 01:34:25; INFO; AC_FDSPlugIn; 10948; 30272] CallLibrary Start
+2022-12-10 01:34:25; INFO; AC_FDSPlugIn; 10948; 30272] CallLibrary End
+2022-12-10 01:34:25; INFO; AC_FDSPlugIn; 10948; 11468] CallLibrary Start
+2022-12-10 01:34:25; INFO; ScenarioProfilePlugIn; 10948; 11468] ProcessRequest : DoForegroundEvent
+2022-12-10 01:34:25; INFO; ScenarioProfilePlugIn; 10948; 11468] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:34:25; INFO; ScenarioProfilePlugIn; 10948; 11468] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:34:25; INFO; ScenarioProfilePlugIn; 10948; 11468] (MonitorHandler) No linked profile
+2022-12-10 01:34:25; INFO; ScenarioProfilePlugIn; 10948; 11468] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:34:25; INFO; ScenarioProfilePlugIn; 10948; 11468] Finish DoForegroundEvent()
+2022-12-10 01:34:25; INFO; AC_FDSPlugIn; 10948; 11468] CallLibrary End
+2022-12-10 01:34:36; INFO; Loopback Stream; 10948; 14904] CallLibrary Start
+2022-12-10 01:34:36; INFO; Loopback Stream; 10948; 14904] CallLibrary End
+2022-12-10 01:35:06; INFO; Loopback Stream; 10948; 9824] CallLibrary Start
+2022-12-10 01:35:06; INFO; Loopback Stream; 10948; 9824] CallLibrary End
+2022-12-10 01:35:36; INFO; Loopback Stream; 10948; 36384] CallLibrary Start
+2022-12-10 01:35:36; INFO; Loopback Stream; 10948; 36384] CallLibrary End
+2022-12-10 01:36:06; INFO; Loopback Stream; 10948; 14992] CallLibrary Start
+2022-12-10 01:36:06; INFO; Loopback Stream; 10948; 14992] CallLibrary End
+2022-12-10 01:36:36; INFO; Loopback Stream; 10948; 33324] CallLibrary Start
+2022-12-10 01:36:36; INFO; Loopback Stream; 10948; 33324] CallLibrary End
+2022-12-10 01:37:06; INFO; Loopback Stream; 10948; 35244] CallLibrary Start
+2022-12-10 01:37:06; INFO; Loopback Stream; 10948; 35244] CallLibrary End
+2022-12-10 01:37:36; INFO; Loopback Stream; 10948; 24224] CallLibrary Start
+2022-12-10 01:37:36; INFO; Loopback Stream; 10948; 24224] CallLibrary End
+2022-12-10 01:37:58; INFO; AC_FDSPlugIn; 10948; 3040] CallLibrary Start
+2022-12-10 01:37:58; INFO; AC_FDSPlugIn; 10948; 3040] CallLibrary End
+2022-12-10 01:37:58; INFO; AC_FDSPlugIn; 10948; 20872] CallLibrary Start
+2022-12-10 01:37:58; INFO; ScenarioProfilePlugIn; 10948; 20872] ProcessRequest : DoForegroundEvent
+2022-12-10 01:37:58; INFO; ScenarioProfilePlugIn; 10948; 20872] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:37:58; INFO; ScenarioProfilePlugIn; 10948; 20872] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:37:58; INFO; ScenarioProfilePlugIn; 10948; 20872] (MonitorHandler) No linked profile
+2022-12-10 01:37:58; INFO; ScenarioProfilePlugIn; 10948; 20872] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:37:58; INFO; ScenarioProfilePlugIn; 10948; 20872] Finish DoForegroundEvent()
+2022-12-10 01:37:58; INFO; AC_FDSPlugIn; 10948; 20872] CallLibrary End
+2022-12-10 01:38:01; INFO; AC_FDSPlugIn; 10948; 4116] CallLibrary Start
+2022-12-10 01:38:01; INFO; AC_FDSPlugIn; 10948; 4116] CallLibrary End
+2022-12-10 01:38:01; INFO; AC_FDSPlugIn; 10948; 4220] CallLibrary Start
+2022-12-10 01:38:01; INFO; ScenarioProfilePlugIn; 10948; 4220] ProcessRequest : DoForegroundEvent
+2022-12-10 01:38:01; INFO; ScenarioProfilePlugIn; 10948; 4220] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:38:01; INFO; ScenarioProfilePlugIn; 10948; 4220] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:38:01; INFO; ScenarioProfilePlugIn; 10948; 4220] (MonitorHandler) No linked profile
+2022-12-10 01:38:01; INFO; ScenarioProfilePlugIn; 10948; 4220] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:38:01; INFO; ScenarioProfilePlugIn; 10948; 4220] Finish DoForegroundEvent()
+2022-12-10 01:38:01; INFO; AC_FDSPlugIn; 10948; 4220] CallLibrary End
+2022-12-10 01:38:06; INFO; Loopback Stream; 10948; 19076] CallLibrary Start
+2022-12-10 01:38:06; INFO; Loopback Stream; 10948; 19076] CallLibrary End
+2022-12-10 01:38:36; INFO; Loopback Stream; 10948; 11768] CallLibrary Start
+2022-12-10 01:38:36; INFO; Loopback Stream; 10948; 11768] CallLibrary End
+2022-12-10 01:39:06; INFO; Loopback Stream; 10948; 29772] CallLibrary Start
+2022-12-10 01:39:06; INFO; Loopback Stream; 10948; 29772] CallLibrary End
+2022-12-10 01:39:36; INFO; Loopback Stream; 10948; 33892] CallLibrary Start
+2022-12-10 01:39:36; INFO; Loopback Stream; 10948; 33892] CallLibrary End
+2022-12-10 01:40:06; INFO; Loopback Stream; 10948; 17748] CallLibrary Start
+2022-12-10 01:40:06; INFO; Loopback Stream; 10948; 17748] CallLibrary End
+2022-12-10 01:40:36; INFO; Loopback Stream; 10948; 13084] CallLibrary Start
+2022-12-10 01:40:36; INFO; Loopback Stream; 10948; 13084] CallLibrary End
+2022-12-10 01:41:06; INFO; Loopback Stream; 10948; 9936] CallLibrary Start
+2022-12-10 01:41:06; INFO; Loopback Stream; 10948; 9936] CallLibrary End
+2022-12-10 01:41:36; INFO; Loopback Stream; 10948; 28936] CallLibrary Start
+2022-12-10 01:41:36; INFO; Loopback Stream; 10948; 28936] CallLibrary End
+2022-12-10 01:42:06; INFO; Loopback Stream; 10948; 20580] CallLibrary Start
+2022-12-10 01:42:06; INFO; Loopback Stream; 10948; 20580] CallLibrary End
+2022-12-10 01:42:36; INFO; Loopback Stream; 10948; 32300] CallLibrary Start
+2022-12-10 01:42:36; INFO; Loopback Stream; 10948; 32300] CallLibrary End
+2022-12-10 01:43:06; INFO; Loopback Stream; 10948; 31052] CallLibrary Start
+2022-12-10 01:43:06; INFO; Loopback Stream; 10948; 31052] CallLibrary End
+2022-12-10 01:43:36; INFO; Loopback Stream; 10948; 36464] CallLibrary Start
+2022-12-10 01:43:36; INFO; Loopback Stream; 10948; 36464] CallLibrary End
+2022-12-10 01:44:06; INFO; Loopback Stream; 10948; 30796] CallLibrary Start
+2022-12-10 01:44:06; INFO; Loopback Stream; 10948; 30796] CallLibrary End
+2022-12-10 01:44:36; INFO; Loopback Stream; 10948; 33508] CallLibrary Start
+2022-12-10 01:44:36; INFO; Loopback Stream; 10948; 33508] CallLibrary End
+2022-12-10 01:44:42; INFO; AC_FDSPlugIn; 10948; 36548] CallLibrary Start
+2022-12-10 01:44:42; INFO; AC_FDSPlugIn; 10948; 36548] CallLibrary End
+2022-12-10 01:44:42; INFO; AC_FDSPlugIn; 10948; 28964] CallLibrary Start
+2022-12-10 01:44:42; INFO; ScenarioProfilePlugIn; 10948; 28964] ProcessRequest : DoForegroundEvent
+2022-12-10 01:44:42; INFO; ScenarioProfilePlugIn; 10948; 28964] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:44:42; INFO; ScenarioProfilePlugIn; 10948; 28964] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:44:42; INFO; ScenarioProfilePlugIn; 10948; 28964] (MonitorHandler) No linked profile
+2022-12-10 01:44:42; INFO; ScenarioProfilePlugIn; 10948; 28964] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:44:42; INFO; ScenarioProfilePlugIn; 10948; 28964] Finish DoForegroundEvent()
+2022-12-10 01:44:42; INFO; AC_FDSPlugIn; 10948; 28964] CallLibrary End
+2022-12-10 01:44:43; INFO; AC_FDSPlugIn; 10948; 8060] CallLibrary Start
+2022-12-10 01:44:43; INFO; AC_FDSPlugIn; 10948; 8060] CallLibrary End
+2022-12-10 01:44:43; INFO; AC_FDSPlugIn; 10948; 28236] CallLibrary Start
+2022-12-10 01:44:43; INFO; ScenarioProfilePlugIn; 10948; 28236] ProcessRequest : DoForegroundEvent
+2022-12-10 01:44:43; INFO; ScenarioProfilePlugIn; 10948; 28236] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:44:43; INFO; ScenarioProfilePlugIn; 10948; 28236] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:44:43; INFO; ScenarioProfilePlugIn; 10948; 28236] (MonitorHandler) No linked profile
+2022-12-10 01:44:43; INFO; ScenarioProfilePlugIn; 10948; 28236] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:44:43; INFO; ScenarioProfilePlugIn; 10948; 28236] Finish DoForegroundEvent()
+2022-12-10 01:44:43; INFO; AC_FDSPlugIn; 10948; 28236] CallLibrary End
+2022-12-10 01:44:45; INFO; AC_FDSPlugIn; 10948; 17480] CallLibrary Start
+2022-12-10 01:44:45; INFO; AC_FDSPlugIn; 10948; 17480] CallLibrary End
+2022-12-10 01:44:45; INFO; AC_FDSPlugIn; 10948; 30824] CallLibrary Start
+2022-12-10 01:44:45; INFO; ScenarioProfilePlugIn; 10948; 30824] ProcessRequest : DoForegroundEvent
+2022-12-10 01:44:45; INFO; ScenarioProfilePlugIn; 10948; 30824] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:44:45; INFO; ScenarioProfilePlugIn; 10948; 30824] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:44:45; INFO; ScenarioProfilePlugIn; 10948; 30824] (MonitorHandler) No linked profile
+2022-12-10 01:44:45; INFO; ScenarioProfilePlugIn; 10948; 30824] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:44:45; INFO; ScenarioProfilePlugIn; 10948; 30824] Finish DoForegroundEvent()
+2022-12-10 01:44:45; INFO; AC_FDSPlugIn; 10948; 30824] CallLibrary End
+2022-12-10 01:44:46; INFO; AC_FDSPlugIn; 10948; 716] CallLibrary Start
+2022-12-10 01:44:46; INFO; AC_FDSPlugIn; 10948; 716] CallLibrary End
+2022-12-10 01:44:46; INFO; AC_FDSPlugIn; 10948; 26436] CallLibrary Start
+2022-12-10 01:44:46; INFO; ScenarioProfilePlugIn; 10948; 26436] ProcessRequest : DoForegroundEvent
+2022-12-10 01:44:46; INFO; ScenarioProfilePlugIn; 10948; 26436] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:44:46; INFO; ScenarioProfilePlugIn; 10948; 26436] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:44:46; INFO; ScenarioProfilePlugIn; 10948; 26436] (MonitorHandler) No linked profile
+2022-12-10 01:44:46; INFO; ScenarioProfilePlugIn; 10948; 26436] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:44:46; INFO; ScenarioProfilePlugIn; 10948; 26436] Finish DoForegroundEvent()
+2022-12-10 01:44:46; INFO; AC_FDSPlugIn; 10948; 26436] CallLibrary End
+2022-12-10 01:45:06; INFO; Loopback Stream; 10948; 34396] CallLibrary Start
+2022-12-10 01:45:06; INFO; Loopback Stream; 10948; 34396] CallLibrary End
+2022-12-10 01:45:26; INFO; AC_FDSPlugIn; 10948; 35252] CallLibrary Start
+2022-12-10 01:45:26; INFO; AC_FDSPlugIn; 10948; 35252] CallLibrary End
+2022-12-10 01:45:26; INFO; AC_FDSPlugIn; 10948; 26260] CallLibrary Start
+2022-12-10 01:45:26; INFO; ScenarioProfilePlugIn; 10948; 26260] ProcessRequest : DoForegroundEvent
+2022-12-10 01:45:26; INFO; ScenarioProfilePlugIn; 10948; 26260] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:45:26; INFO; ScenarioProfilePlugIn; 10948; 26260] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:45:26; INFO; ScenarioProfilePlugIn; 10948; 26260] (MonitorHandler) No linked profile
+2022-12-10 01:45:26; INFO; ScenarioProfilePlugIn; 10948; 26260] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:45:26; INFO; ScenarioProfilePlugIn; 10948; 26260] Finish DoForegroundEvent()
+2022-12-10 01:45:26; INFO; AC_FDSPlugIn; 10948; 26260] CallLibrary End
+2022-12-10 01:45:33; INFO; AC_FDSPlugIn; 10948; 31696] CallLibrary Start
+2022-12-10 01:45:33; INFO; AC_FDSPlugIn; 10948; 31696] CallLibrary End
+2022-12-10 01:45:33; INFO; AC_FDSPlugIn; 10948; 35084] CallLibrary Start
+2022-12-10 01:45:33; INFO; ScenarioProfilePlugIn; 10948; 35084] ProcessRequest : DoForegroundEvent
+2022-12-10 01:45:33; INFO; ScenarioProfilePlugIn; 10948; 35084] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:45:33; INFO; ScenarioProfilePlugIn; 10948; 35084] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:45:33; INFO; ScenarioProfilePlugIn; 10948; 35084] (MonitorHandler) No linked profile
+2022-12-10 01:45:33; INFO; ScenarioProfilePlugIn; 10948; 35084] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:45:33; INFO; ScenarioProfilePlugIn; 10948; 35084] Finish DoForegroundEvent()
+2022-12-10 01:45:33; INFO; AC_FDSPlugIn; 10948; 35084] CallLibrary End
+2022-12-10 01:45:36; INFO; Loopback Stream; 10948; 21084] CallLibrary Start
+2022-12-10 01:45:36; INFO; Loopback Stream; 10948; 21084] CallLibrary End
+2022-12-10 01:46:06; INFO; Loopback Stream; 10948; 36732] CallLibrary Start
+2022-12-10 01:46:06; INFO; Loopback Stream; 10948; 36732] CallLibrary End
+2022-12-10 01:46:33; INFO; AC_FDSPlugIn; 10948; 18352] CallLibrary Start
+2022-12-10 01:46:33; INFO; AC_FDSPlugIn; 10948; 18352] CallLibrary End
+2022-12-10 01:46:33; INFO; AC_FDSPlugIn; 10948; 5100] CallLibrary Start
+2022-12-10 01:46:33; INFO; ScenarioProfilePlugIn; 10948; 5100] ProcessRequest : DoForegroundEvent
+2022-12-10 01:46:33; INFO; ScenarioProfilePlugIn; 10948; 5100] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:46:33; INFO; ScenarioProfilePlugIn; 10948; 5100] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:46:33; INFO; ScenarioProfilePlugIn; 10948; 5100] (MonitorHandler) No linked profile
+2022-12-10 01:46:33; INFO; ScenarioProfilePlugIn; 10948; 5100] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:46:33; INFO; ScenarioProfilePlugIn; 10948; 5100] Finish DoForegroundEvent()
+2022-12-10 01:46:33; INFO; AC_FDSPlugIn; 10948; 5100] CallLibrary End
+2022-12-10 01:46:34; INFO; AC_FDSPlugIn; 10948; 28740] CallLibrary Start
+2022-12-10 01:46:34; INFO; AC_FDSPlugIn; 10948; 28740] CallLibrary End
+2022-12-10 01:46:34; INFO; AC_FDSPlugIn; 10948; 35160] CallLibrary Start
+2022-12-10 01:46:34; INFO; ScenarioProfilePlugIn; 10948; 35160] ProcessRequest : DoForegroundEvent
+2022-12-10 01:46:34; INFO; ScenarioProfilePlugIn; 10948; 35160] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:46:34; INFO; ScenarioProfilePlugIn; 10948; 35160] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:46:34; INFO; ScenarioProfilePlugIn; 10948; 35160] (MonitorHandler) No linked profile
+2022-12-10 01:46:34; INFO; ScenarioProfilePlugIn; 10948; 35160] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:46:34; INFO; ScenarioProfilePlugIn; 10948; 35160] Finish DoForegroundEvent()
+2022-12-10 01:46:34; INFO; AC_FDSPlugIn; 10948; 35160] CallLibrary End
+2022-12-10 01:46:35; INFO; AC_FDSPlugIn; 10948; 26736] CallLibrary Start
+2022-12-10 01:46:35; INFO; AC_FDSPlugIn; 10948; 26736] CallLibrary End
+2022-12-10 01:46:35; INFO; AC_FDSPlugIn; 10948; 8676] CallLibrary Start
+2022-12-10 01:46:35; INFO; ScenarioProfilePlugIn; 10948; 8676] ProcessRequest : DoForegroundEvent
+2022-12-10 01:46:35; INFO; ScenarioProfilePlugIn; 10948; 8676] (DoForegroundEvent) PID=19668, Path="C:\Windows\System32\rundll32.exe", AppType=WIN32
+2022-12-10 01:46:35; INFO; ScenarioProfilePlugIn; 10948; 8676] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:46:35; INFO; ScenarioProfilePlugIn; 10948; 8676] (MonitorHandler) No linked profile
+2022-12-10 01:46:35; INFO; ScenarioProfilePlugIn; 10948; 8676] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:46:35; INFO; ScenarioProfilePlugIn; 10948; 8676] Finish DoForegroundEvent()
+2022-12-10 01:46:35; INFO; AC_FDSPlugIn; 10948; 8676] CallLibrary End
+2022-12-10 01:46:36; INFO; Loopback Stream; 10948; 22620] CallLibrary Start
+2022-12-10 01:46:36; INFO; Loopback Stream; 10948; 22620] CallLibrary End
+2022-12-10 01:46:36; INFO; AC_FDSPlugIn; 10948; 22232] CallLibrary Start
+2022-12-10 01:46:36; INFO; AC_FDSPlugIn; 10948; 22232] CallLibrary End
+2022-12-10 01:46:36; INFO; AC_FDSPlugIn; 10948; 33728] CallLibrary Start
+2022-12-10 01:46:36; INFO; ScenarioProfilePlugIn; 10948; 33728] ProcessRequest : DoForegroundEvent
+2022-12-10 01:46:36; INFO; ScenarioProfilePlugIn; 10948; 33728] (DoForegroundEvent) PID=32248, Path="C:\Program Files\Common Files\McAfee\Platform\McUICnt.exe", AppType=WIN32
+2022-12-10 01:46:36; INFO; ScenarioProfilePlugIn; 10948; 33728] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:46:36; INFO; ScenarioProfilePlugIn; 10948; 33728] (MonitorHandler) No linked profile
+2022-12-10 01:46:36; INFO; ScenarioProfilePlugIn; 10948; 33728] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:46:36; INFO; ScenarioProfilePlugIn; 10948; 33728] Finish DoForegroundEvent()
+2022-12-10 01:46:36; INFO; AC_FDSPlugIn; 10948; 33728] CallLibrary End
+2022-12-10 01:46:39; INFO; AC_FDSPlugIn; 10948; 34216] CallLibrary Start
+2022-12-10 01:46:39; INFO; AC_FDSPlugIn; 10948; 34216] CallLibrary End
+2022-12-10 01:46:39; INFO; AC_FDSPlugIn; 10948; 2820] CallLibrary Start
+2022-12-10 01:46:39; INFO; ScenarioProfilePlugIn; 10948; 2820] ProcessRequest : DoForegroundEvent
+2022-12-10 01:46:39; INFO; ScenarioProfilePlugIn; 10948; 2820] (DoForegroundEvent) PID=12140, Path="C:\Windows\explorer.exe", AppType=WIN32
+2022-12-10 01:46:39; INFO; ScenarioProfilePlugIn; 10948; 2820] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:46:39; INFO; ScenarioProfilePlugIn; 10948; 2820] (MonitorHandler) No linked profile
+2022-12-10 01:46:39; INFO; ScenarioProfilePlugIn; 10948; 2820] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:46:39; INFO; ScenarioProfilePlugIn; 10948; 2820] Finish DoForegroundEvent()
+2022-12-10 01:46:39; INFO; AC_FDSPlugIn; 10948; 2820] CallLibrary End
+2022-12-10 01:46:42; INFO; AC_FDSPlugIn; 10948; 22252] CallLibrary Start
+2022-12-10 01:46:42; INFO; AC_FDSPlugIn; 10948; 22252] CallLibrary End
+2022-12-10 01:46:42; INFO; AC_FDSPlugIn; 10948; 32328] CallLibrary Start
+2022-12-10 01:46:42; INFO; ScenarioProfilePlugIn; 10948; 32328] ProcessRequest : DoForegroundEvent
+2022-12-10 01:46:42; INFO; ScenarioProfilePlugIn; 10948; 32328] (DoForegroundEvent) PID=17348, Path="91750D7E.Slack_8she8kybcnzg4!Slack", AppType=UWP
+2022-12-10 01:46:42; INFO; ScenarioProfilePlugIn; 10948; 32328] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:46:42; INFO; ScenarioProfilePlugIn; 10948; 32328] (MonitorHandler) No linked profile
+2022-12-10 01:46:42; INFO; ScenarioProfilePlugIn; 10948; 32328] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:46:42; INFO; ScenarioProfilePlugIn; 10948; 32328] Finish DoForegroundEvent()
+2022-12-10 01:46:42; INFO; AC_FDSPlugIn; 10948; 32328] CallLibrary End
+2022-12-10 01:47:00; INFO; AC_FDSPlugIn; 10948; 32316] CallLibrary Start
+2022-12-10 01:47:00; INFO; AC_FDSPlugIn; 10948; 32316] CallLibrary End
+2022-12-10 01:47:00; INFO; AC_FDSPlugIn; 10948; 16088] CallLibrary Start
+2022-12-10 01:47:00; INFO; ScenarioProfilePlugIn; 10948; 16088] ProcessRequest : DoForegroundEvent
+2022-12-10 01:47:00; INFO; ScenarioProfilePlugIn; 10948; 16088] (DoForegroundEvent) PID=12140, Path="C:\Windows\explorer.exe", AppType=WIN32
+2022-12-10 01:47:00; INFO; ScenarioProfilePlugIn; 10948; 16088] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:47:00; INFO; ScenarioProfilePlugIn; 10948; 16088] (MonitorHandler) No linked profile
+2022-12-10 01:47:00; INFO; ScenarioProfilePlugIn; 10948; 16088] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:47:00; INFO; ScenarioProfilePlugIn; 10948; 16088] Finish DoForegroundEvent()
+2022-12-10 01:47:00; INFO; AC_FDSPlugIn; 10948; 16088] CallLibrary End
+2022-12-10 01:47:01; INFO; AC_FDSPlugIn; 10948; 8216] CallLibrary Start
+2022-12-10 01:47:01; INFO; AC_FDSPlugIn; 10948; 8216] CallLibrary End
+2022-12-10 01:47:01; INFO; AC_FDSPlugIn; 10948; 26828] CallLibrary Start
+2022-12-10 01:47:01; INFO; ScenarioProfilePlugIn; 10948; 26828] ProcessRequest : DoForegroundEvent
+2022-12-10 01:47:01; INFO; ScenarioProfilePlugIn; 10948; 26828] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:47:01; INFO; ScenarioProfilePlugIn; 10948; 26828] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:47:01; INFO; ScenarioProfilePlugIn; 10948; 26828] (MonitorHandler) No linked profile
+2022-12-10 01:47:01; INFO; ScenarioProfilePlugIn; 10948; 26828] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:47:01; INFO; ScenarioProfilePlugIn; 10948; 26828] Finish DoForegroundEvent()
+2022-12-10 01:47:01; INFO; AC_FDSPlugIn; 10948; 26828] CallLibrary End
+2022-12-10 01:47:05; INFO; AC_FDSPlugIn; 10948; 7816] CallLibrary Start
+2022-12-10 01:47:05; INFO; AC_FDSPlugIn; 10948; 7816] CallLibrary End
+2022-12-10 01:47:05; INFO; AC_FDSPlugIn; 10948; 2552] CallLibrary Start
+2022-12-10 01:47:05; INFO; ScenarioProfilePlugIn; 10948; 2552] ProcessRequest : DoForegroundEvent
+2022-12-10 01:47:05; INFO; ScenarioProfilePlugIn; 10948; 2552] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:47:05; INFO; ScenarioProfilePlugIn; 10948; 2552] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:47:05; INFO; ScenarioProfilePlugIn; 10948; 2552] (MonitorHandler) No linked profile
+2022-12-10 01:47:05; INFO; ScenarioProfilePlugIn; 10948; 2552] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:47:05; INFO; ScenarioProfilePlugIn; 10948; 2552] Finish DoForegroundEvent()
+2022-12-10 01:47:05; INFO; AC_FDSPlugIn; 10948; 2552] CallLibrary End
+2022-12-10 01:47:06; INFO; Loopback Stream; 10948; 2312] CallLibrary Start
+2022-12-10 01:47:06; INFO; Loopback Stream; 10948; 2312] CallLibrary End
+2022-12-10 01:47:11; INFO; AC_FDSPlugIn; 10948; 35284] CallLibrary Start
+2022-12-10 01:47:11; INFO; AC_FDSPlugIn; 10948; 35284] CallLibrary End
+2022-12-10 01:47:11; INFO; AC_FDSPlugIn; 10948; 28296] CallLibrary Start
+2022-12-10 01:47:11; INFO; ScenarioProfilePlugIn; 10948; 28296] ProcessRequest : DoForegroundEvent
+2022-12-10 01:47:11; INFO; ScenarioProfilePlugIn; 10948; 28296] (DoForegroundEvent) PID=12140, Path="C:\Windows\explorer.exe", AppType=WIN32
+2022-12-10 01:47:11; INFO; ScenarioProfilePlugIn; 10948; 28296] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:47:11; INFO; ScenarioProfilePlugIn; 10948; 28296] (MonitorHandler) No linked profile
+2022-12-10 01:47:11; INFO; ScenarioProfilePlugIn; 10948; 28296] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:47:11; INFO; ScenarioProfilePlugIn; 10948; 28296] Finish DoForegroundEvent()
+2022-12-10 01:47:11; INFO; AC_FDSPlugIn; 10948; 28296] CallLibrary End
+2022-12-10 01:47:13; INFO; AC_FDSPlugIn; 10948; 33160] CallLibrary Start
+2022-12-10 01:47:13; INFO; AC_FDSPlugIn; 10948; 33160] CallLibrary End
+2022-12-10 01:47:13; INFO; AC_FDSPlugIn; 10948; 22480] CallLibrary Start
+2022-12-10 01:47:13; INFO; ScenarioProfilePlugIn; 10948; 22480] ProcessRequest : DoForegroundEvent
+2022-12-10 01:47:13; INFO; ScenarioProfilePlugIn; 10948; 22480] (DoForegroundEvent) PID=28228, Path="C:\Users\primo\AppData\Local\Programs\Microsoft VS Code\Code.exe", AppType=WIN32
+2022-12-10 01:47:13; INFO; ScenarioProfilePlugIn; 10948; 22480] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:47:13; INFO; ScenarioProfilePlugIn; 10948; 22480] (MonitorHandler) No linked profile
+2022-12-10 01:47:13; INFO; ScenarioProfilePlugIn; 10948; 22480] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:47:13; INFO; ScenarioProfilePlugIn; 10948; 22480] Finish DoForegroundEvent()
+2022-12-10 01:47:13; INFO; AC_FDSPlugIn; 10948; 22480] CallLibrary End
+2022-12-10 01:47:36; INFO; Loopback Stream; 10948; 34844] CallLibrary Start
+2022-12-10 01:47:36; INFO; Loopback Stream; 10948; 34844] CallLibrary End
+2022-12-10 01:47:48; INFO; AC_FDSPlugIn; 10948; 28964] CallLibrary Start
+2022-12-10 01:47:48; INFO; AC_FDSPlugIn; 10948; 28964] CallLibrary End
+2022-12-10 01:47:48; INFO; AC_FDSPlugIn; 10948; 34804] CallLibrary Start
+2022-12-10 01:47:48; INFO; ScenarioProfilePlugIn; 10948; 34804] ProcessRequest : DoForegroundEvent
+2022-12-10 01:47:48; INFO; ScenarioProfilePlugIn; 10948; 34804] (DoForegroundEvent) PID=21656, Path="C:\Program Files\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2022-12-10 01:47:48; INFO; ScenarioProfilePlugIn; 10948; 34804] (MonitorHandler) CurrentProfile is ""
+2022-12-10 01:47:48; INFO; ScenarioProfilePlugIn; 10948; 34804] (MonitorHandler) No linked profile
+2022-12-10 01:47:48; INFO; ScenarioProfilePlugIn; 10948; 34804] (MonitorHandler) CurrentPID : 0, not existed
+2022-12-10 01:47:48; INFO; ScenarioProfilePlugIn; 10948; 34804] Finish DoForegroundEvent()
+2022-12-10 01:47:48; INFO; AC_FDSPlugIn; 10948; 34804] CallLibrary End
+2022-12-10 01:48:06; INFO; Loopback Stream; 10948; 36560] CallLibrary Start
+2022-12-10 01:48:06; INFO; Loopback Stream; 10948; 36560] CallLibrary End
+2022-12-10 01:48:36; INFO; Loopback Stream; 10948; 31724] CallLibrary Start
+2022-12-10 01:48:36; INFO; Loopback Stream; 10948; 31724] CallLibrary End
+2022-12-10 01:49:06; INFO; Loopback Stream; 10948; 35524] CallLibrary Start
+2022-12-10 01:49:06; INFO; Loopback Stream; 10948; 35524] CallLibrary End
+2022-12-10 01:49:36; INFO; Loopback Stream; 10948; 35932] CallLibrary Start
+2022-12-10 01:49:36; INFO; Loopback Stream; 10948; 35932] CallLibrary End
+2022-12-10 01:50:06; INFO; Loopback Stream; 10948; 12736] CallLibrary Start
+2022-12-10 01:50:06; INFO; Loopback Stream; 10948; 12736] CallLibrary End
+2022-12-10 01:50:36; INFO; Loopback Stream; 10948; 25192] CallLibrary Start
+2022-12-10 01:50:36; INFO; Loopback Stream; 10948; 25192] CallLibrary End
+2022-12-10 01:51:06; INFO; Loopback Stream; 10948; 19344] CallLibrary Start
+2022-12-10 01:51:06; INFO; Loopback Stream; 10948; 19344] CallLibrary End
+2022-12-10 01:51:36; INFO; Loopback Stream; 10948; 23020] CallLibrary Start
+2022-12-10 01:51:36; INFO; Loopback Stream; 10948; 23020] CallLibrary End
+2022-12-10 01:52:06; INFO; Loopback Stream; 10948; 33152] CallLibrary Start
+2022-12-10 01:52:06; INFO; Loopback Stream; 10948; 33152] CallLibrary End
+2022-12-10 01:52:35; INFO; User Session Manager; 10948; 15328] OnNotifyMessage Start
+2022-12-10 01:52:35; INFO; User Session Manager; 10948; 15328] OnNotifyMessage End
+2022-12-10 01:52:35; INFO; WebSocketClientPlugin; 10948; 27864] PushUpdateWebSocketStatus Update Status: Connect Fail
+2022-12-10 01:52:35; INFO; WebSocketClientPlugin; 10948; 27864] DoReconnectWebSocketServer Creating Connecting Thread
+2022-12-10 01:52:35; INFO; WebSocketClientPlugin; 10948; 2544] DoConnectWebSocketServer Connect to URI: wss://127.0.0.1:9012
+2022-12-10 01:52:35; INFO; User Session Manager; 10948; 15328] OnNotifyMessage Start

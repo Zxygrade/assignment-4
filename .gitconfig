@@ -1,0 +1,3 @@
+[user]
+	email = tevrese12@gmail.com\ngit config --global user.email tevrese12@gmail.com\ngit config --global user.email tevrese12@gmail.com
+	name = Tevrese Young
